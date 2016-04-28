@@ -1,3 +1,6 @@
+This is a fork from https://github.com/geerlingguy/ansible-role-jenkins !
+To support fixed version numbers, https://github.com/geerlingguy/ansible-role-jenkins/issues/47#issuecomment-212861640
+
 # Ansible Role: Jenkins CI
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-jenkins.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-jenkins)
